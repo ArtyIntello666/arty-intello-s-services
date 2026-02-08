@@ -1,0 +1,1 @@
+# arty-intello-s-services
